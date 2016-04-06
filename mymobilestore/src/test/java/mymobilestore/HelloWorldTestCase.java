@@ -10,7 +10,7 @@ public class HelloWorldTestCase {
 
 	@Test
 	public void test() {
-		Assert.assertEquals("Hello World Ravi!", helloWorld.sayHelloWorld());
+		Assert.assertEquals("Hello World Ravi Test!", helloWorld.sayHelloWorld());
 	}
 
 }
